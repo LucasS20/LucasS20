@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Backend em Java SpringBoot, Atualmente estou aprendendo Frontend.
+    Sou Desenvolvedor Backend em Java SpringBoot, Kotlin
   </p>
   
   <p align="center">
@@ -31,9 +31,10 @@ Bem vindo ao meu portfólio
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align ="center" alt= "github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">  
-
- 
-  
+ <img align ="center" alt= "kotlin" height="30" width="40" src="https://www.svgrepo.com/show/373728/kotlin.svg"> 
+  <img align ="center" alt= "postgres" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"> 
+  <img align ="center" alt= "flutter" height="30" width="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"> 
+<img align ="center" alt= "js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> 
 </div><br>
 
 <div align="center">

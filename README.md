@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Backend em Java SpringBoot, Kotlin
+    Sou Desenvolvedor Backend em Java SpringBoot, .Net
   </p>
   
   <p align="center">
